@@ -1,0 +1,10 @@
+git init
+
+git remote add 이름 주소:추가
+git remote -v :확인
+
+git add
+git commit -m '코멘트'
+git push -u 레파지스트리 main
+
+git rm -cached -r '파일'
